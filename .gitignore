@@ -1,0 +1,4 @@
+/Set-ExecutionPolicy
+/venv/
+/Invoke-RestMethod
+/pytest
